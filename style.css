@@ -1,0 +1,33 @@
+body {
+    margin: 30px 10px;
+    background-color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#main {
+    background-color: #EEEEEE;
+}
+
+#img-div {
+    margin: 30px;
+    background-color: white;
+    padding: 30px;
+}
+
+#img-div img {
+    margin: 20px auto;
+}
+
+#tribute-info ul, #tribute-info div {
+    display: block;
+    text-align: left;
+    line-height: 40px;
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+
+#tribute-info div {
+    margin-top: 50px;
+}
